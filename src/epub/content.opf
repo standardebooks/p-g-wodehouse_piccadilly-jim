@@ -37,10 +37,10 @@
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">Piccadilly Jim is a comedy about the adventures of James Crocker, also known as Piccadilly Jim.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">&lt;i&gt;Piccadilly Jim&lt;/i&gt;, by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;, was first published on 24 February 1917 by Dodd, Mead and Company in New York. It was subsequently published in London in May 1918 by Herbert Jenkins. It is based on a story originally published in the &lt;i&gt;Saturday Evening Post&lt;/i&gt; from 16 September to 11 November 1916. The book is set in both London and New York, with Jimmy Crocker, also known as “Piccadilly Jim”, romatically pursuing Ann Chester. They and their respective families, the Crockers and Petts respectively, visit both sides of the Atlantic and get embroiled in a convoluted series of comedic escapades, involving impersonations, theft, kidnapping and romance.</meta>
+		<meta id="long-description" property="se:long-description" refines="#description">&lt;i&gt;Piccadilly Jim&lt;/i&gt;, by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;, was first published on 24 February 1917 by Dodd, Mead and Company in New York. It was subsequently published in London in May 1918 by Herbert Jenkins. It is based on a story originally published in the &lt;i&gt;Saturday Evening Post&lt;/i&gt; from 16 September to 11 November 1916. The book is set in both London and New York, with Jimmy Crocker, also known as “Piccadilly Jim,” romatically pursuing Ann Chester. They and their respective families, the Crockers and Petts respectively, visit both sides of the Atlantic and get embroiled in a convoluted series of comedic escapades, involving impersonations, theft, kidnapping and romance.</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2005</dc:source>
-		<dc:source>https://babel.hathitrust.org/cgi/pt?id=umn.31951002083086y</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/012348914</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Piccadilly_Jim</meta>
