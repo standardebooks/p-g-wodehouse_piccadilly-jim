@@ -27,6 +27,7 @@ blockquote.headline{
 }
 
 ul{
+	font-style: italics;
 	list-style: none;
 }
 
