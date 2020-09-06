@@ -72,8 +72,3 @@ footer{
 [epub|type~="z3998:poem"] p > span + br{
 	display: none;
 }
-
-span[epub|type~="subtitle"]{
-	display: block;
-	font-weight: normal;
-}
