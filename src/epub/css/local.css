@@ -59,10 +59,6 @@ footer{
 	text-indent: 0;
 }
 
-[epub|type~="z3998:poem"] + p{
-	text-indent: 0;
-}
-
 [epub|type~="z3998:poem"] p > span{
 	display: block;
 	text-indent: -1em;
