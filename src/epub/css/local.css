@@ -6,8 +6,8 @@ table{
 }
 
 table td:last-child{
-	text-align: right;
 	font-variant-numeric: tabular-nums;
+	text-align: right;
 }
 
 table tr:last-child td:last-child{
@@ -46,8 +46,8 @@ footer{
 
 [epub|type~="z3998:postscript"]{
 	margin-top: 1em;
-	text-indent: 0;
 	text-align: initial;
+	text-indent: 0;
 }
 
 [epub|type~="z3998:signature"]{
