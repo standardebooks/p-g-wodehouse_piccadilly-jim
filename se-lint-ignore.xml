@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="chapter-17.xhtml">
+		<ignore>
+			<code>t-076</code>
+			<reason>Matched text is dialect and not a grapheme.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-23.xhtml">
+		<ignore>
+			<code>t-076</code>
+			<reason>Matched text is dialect and not a grapheme.</reason>
+		</ignore>
+	</file>
+	<file path="chapter-24.xhtml">
+		<ignore>
+			<code>t-076</code>
+			<reason>Matched text is dialect and not a grapheme.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
