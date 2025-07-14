@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="chapter-2.xhtml">
+		<ignore>
+			<code>y-035</code>
+			<reason>Matched text is game dialect.</reason>
+		</ignore>
+	</file>
 	<file path="chapter-17.xhtml">
 		<ignore>
 			<code>t-076</code>
