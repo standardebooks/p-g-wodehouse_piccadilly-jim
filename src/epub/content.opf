@@ -42,7 +42,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2005</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/012348914</dc:source>
-		<meta property="se:word-count">82236</meta>
+		<meta property="se:word-count">82234</meta>
 		<meta property="se:reading-ease.flesch">76.01</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Piccadilly_Jim</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/p-g-wodehouse_piccadilly-jim</meta>
