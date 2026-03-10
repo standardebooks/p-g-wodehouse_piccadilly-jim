@@ -2,21 +2,28 @@
 <se-lint-ignore>
 	<file path="chapter-2.xhtml">
 		<ignore code="y-035">
+			<line>74</line>
+			<line>82</line>
+			<line>86</line>
 			<reason>Matched text is game dialect.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-17.xhtml">
 		<ignore code="t-076">
+			<line>186</line>
 			<reason>Matched text is dialect and not a grapheme.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-23.xhtml">
 		<ignore code="t-076">
+			<line>98</line>
+			<line>124</line>
 			<reason>Matched text is dialect and not a grapheme.</reason>
 		</ignore>
 	</file>
 	<file path="chapter-24.xhtml">
 		<ignore code="t-076">
+			<line>26</line>
 			<reason>Matched text is dialect and not a grapheme.</reason>
 		</ignore>
 	</file>
