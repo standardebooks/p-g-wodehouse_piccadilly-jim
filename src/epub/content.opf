@@ -37,7 +37,7 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:abstract>Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.</dc:abstract>
+		<meta property="schema:abstract">Jimmy Crocker gets embroiled in convoluted comedic escapades, involving impersonations, kidnapping and theft, on both sides of the Atlantic.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Piccadilly Jim&lt;/i&gt;, by &lt;a href="https://standardebooks.org/ebooks/p-g-wodehouse"&gt;P. G. Wodehouse&lt;/a&gt;, was first published on February 24, 1917 by Dodd, Mead and Company in New York. It was subsequently published in London in May 1918 by Herbert Jenkins. It is based on a story originally published in the &lt;i&gt;Saturday Evening Post&lt;/i&gt; from September 16 to November 11, 1916. The book sees Jimmy Crocker, also known as “Piccadilly Jim,” trying to escape his increasingly bad reputation by returning to New York from London. On the way, he meets and falls in love with Ann Chester, and agrees to help her kidnap Ogden, her cousin, for his own good. Their plans go awry and become more convoluted as impersonations, explosives and a determined detective get in the way.&lt;/p&gt;
 		</dc:description>
